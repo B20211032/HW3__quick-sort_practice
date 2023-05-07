@@ -1,33 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[10]:
-
-
 def quicksort(array, start, end):
     # 如果 start >= end，表示已經完成排序
     if start >= end:
